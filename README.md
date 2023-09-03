@@ -1,2 +1,2 @@
-# xmylog_img
+# xmylog_imgs
 图床
